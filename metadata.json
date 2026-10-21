@@ -1,0 +1,8 @@
+{
+  "name": "Remix Modul Ajar Deep Learning 8-3-3-4 Kurikulum Merdeka TK",
+  "description": "Generator dan Perancang Modul Ajar Kurikulum Merdeka berbasis Pembelajaran Mendalam (Deep Learning) dengan Kerangka 8-3-3-4 lengkap dengan LKPD, Asesmen, dan Rubrik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
